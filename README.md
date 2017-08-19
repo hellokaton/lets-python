@@ -8,9 +8,9 @@
 
 ### 1.1 基本使用
 
-- 1.1.1 [Hello Python3](hello-python3.md)
-- 1.1.2 [变量、常量](variable-const.md)
-- 1.1.3 [基础运算](basic-operation.md)
+- 1.1.1 [Hello Python3](toc/hello-python3.md)
+- 1.1.2 [变量、常量](toc/variable-const.md)
+- 1.1.3 [基础运算](toc/basic-operation.md)
 - 1.1.4 [字符串]()
 - 1.1.5 [元组、列表、字典]()
 
