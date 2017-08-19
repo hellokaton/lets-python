@@ -33,4 +33,4 @@ Python 3.6.2
 ```
 
 ## links
-   * [目录](<README.md>)
+   * [目录](<../README.md>)
