@@ -1,14 +1,10 @@
 # lets-python
 
-和我一起学习使用Python语言吧，本课程是基于Python3的。
-
-## 安装
-
-1. [在windows上安装]()
-2. [在macos上安装]()
-3. [在linux上安装]()
+和我一起学习使用Python语言吧，本课程是基于 `Python3.6.2` 的。
 
 ## 基础
+
+1. [安装Python3](toc/install.md)
 
 ### 基本使用
 
