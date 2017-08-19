@@ -1,6 +1,6 @@
 # lets-python
 
-和我一起学习使用Python语言吧，本课程是基于 `Python3.6.2` 的。
+和我一起学习使用Python语言吧，本课程是基于 `Python3.6.2` 的，我开发使用的IDE是 [PyCharm](https://www.jetbrains.com/pycharm/)。
 
 ## 基础
 
@@ -8,7 +8,7 @@
 
 ### 基本使用
 
-1. [Hello Python3]()
+1. [Hello Python3](hello-python3.md)
 2. [基础运算]()
 3. [注释]()
 4. [字符串]()
