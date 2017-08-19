@@ -103,7 +103,7 @@ def basic3():
 if __name__ == '__main__':
     print("\n算术运算符输出:")
     basic1()
-    print("\n比较运算符输出:")
+    print("\n关系运算符输出:")
     basic2()
     print("\n逻辑运算符输出:")
     basic3()
